@@ -1,4 +1,4 @@
-FROM openjdk:16-jdk-alpine3.12
+FROM openjdk:18-jdk-alpine
 
 ENV PLANTUML_VERSION=1.2021.14
 ENV LANG en_US.UTF-8
